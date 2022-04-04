@@ -1,0 +1,146 @@
+First computer virus is known as
+(a) Rabbit
+(b) Creeper Virus
+(c) Elk Cloner
+(d) SCA Virus
+Answer: (b) Creeper Virus
+
+Firewall in computer is used for
+(a) Security
+(b) Data Transmission
+(c) Authentication
+(d) Monitoring
+Answer: (a) Security
+
+Which of the following is not an operating system
+(a) DOS
+(b) Mac
+(c) C
+(d) Linux
+Answer: (c) C
+
+1024 bit is equal to how many byte
+(a) 1 Byte
+(b) 128 Byte
+(c) 32 Byte
+(d) 64 Byte
+Answer: (b) 128 Byte
+
+Mac Operating System is developed by which company
+(a) IBM
+(b) Apple
+(c) Microsoft
+(d) Samsung
+Answer: (b) Apple
+
+Which one is the first fully supported 64-bit operating system
+(a) Windows Vista
+(b) Mac
+(c) Linux
+(d) Windows XP
+Answer: (c) Linux
+
+Which of the following is not a web browser
+(a) MOSAIC
+(b) WWW
+(c) Facebook
+(d) Netscape navigator
+Answer: (c) Facebook
+
+Which one of the followings is a programming language
+(a) HTTP
+(b) HTML
+(c) HPML
+(d) FTP
+Answer: (b) HTML
+
+In which year ‘@’ sign was first chosen for its use in e-mail address
+(a) 1976
+(b) 1980
+(c) 1977
+(d) 1972
+Answer: (d) 1972
+
+Which one is a ‘text editor’ for Microsoft Windows
+(a) MS Word
+(b) Ms Excel
+(c) WordPad
+(d) Notepad
+Answer: (d) Notepad
+
+Which one is the default ‘Word Processor’ for Microsoft Windows
+(a) MS Word
+(b) Ms Paint
+(c) WordPad
+(d) Notepad
+Answer: (c) WordPad
+
+Which key combination is used to minimize all open windows and displays in the screen
+(a) Alt+M
+(b) Shift+M
+(c) Windows Key+D
+(d) CTRL+D
+Answer: (c) Windows Key+D
+
+‘Linux’ is an example of
+(a) Software
+(b) Application
+(c) Operating System
+(d) Browser
+Answer: (c) Operating System
+
+Which key combination is used to permantly delete a file or folder
+(a) Shift+delete
+(b) Alt+delete
+(c) CTRL+delete
+(d) Delete
+Answer: (a) Shift+delete
+
+Which is an Input device
+(a) Monitor
+(b) Printer
+(c) Mouse
+(d) None of the above
+Answer: (c) Mouse
+
+Which one is used for making presentation file from Microsoft Office package
+(a) MS Outlook
+(b) MS Excel
+(c) MS Word
+(d) MS Powerpoint
+Answer: (d) MS PowerPoint
+
+Which web browser is developed by the Google
+(a) IE
+(b) FireFox
+(c) Safri
+(d) Chrome
+Answer: (d) Chrome
+
+Mark Zuckerberg is the owner of
+(a) Facebook
+(b) Google
+(c) Linux
+(d) Linkedln
+Answer: (a) Facebook
+
+What is the maximum size of a word document created
+(a) 1 MB
+(b) 32 MB
+(c) 16MB
+(d) 999KB
+Answer: (b) 32 MB
+
+The maximum number of rows supported by Excel 2007 spreadsheet is
+(a) 9,68,576
+(b) 12,15,857
+(c) 13,42,554
+(d) 10,48,576
+Answer: (d) 10,48,576
+
+The maximum number of rows supported by Excel 2003 spreadsheet is
+(a) 10,000
+(b) 35,356
+(c) 55,782
+(d) 65,536
+Answer: (d) 65,536
